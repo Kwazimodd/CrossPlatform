@@ -1,0 +1,84 @@
+[
+  {
+    "modelName": "ATR 42-A",
+    "maxLoadKG": "200000",
+    "maxFlyHours": "10000",
+    "averageSpeedKMpH": "880",
+    "airplaneParams": {
+      "flyHours": "0"
+    },
+    "cargoAircraft": {
+      "maxVolume": "800.9"
+    }
+  },
+
+  {
+    "modelName": "ATR 42-B",
+    "maxLoadKG": "200000",
+    "maxFlyHours": "10000",
+    "averageSpeedKMpH": "880",
+    "airplaneParams": {
+      "flyHours": "200"
+    },
+    "cargoAircraft": {
+      "maxVolume": "800.9"
+    }
+  },
+
+  {
+    "modelName": "ATR-72",
+    "maxLoadKG": "500000",
+    "maxFlyHours": "200000",
+    "averageSpeedKMpH": "900",
+    "airplaneParams": {
+      "flyHours": "1000"
+    },
+    "cargoAircraft": {
+      "maxVolume": "1000"
+    }
+  },
+
+  {
+    "modelName": "Airbus A220",
+    "maxLoadKG": "2000",
+    "maxFlyHours": "1000000",
+    "averageSpeedKMpH": "990",
+    "airplaneParams": {
+      "flyHours": "0"
+    },
+    "passengerAircraft": {
+      "maxPassengerCount": "220",
+      "maxBaggageCountKG": "10000"
+    }
+  },
+
+  {
+    "modelName": "Airbus A300",
+    "maxLoadKG": "2000",
+    "maxFlyHours": "1000000",
+    "averageSpeedKMpH": "",
+    "airplaneParams": {
+      "flyHours": ""
+    }
+  },
+
+  {
+    "modelName": "Airbus A320-A",
+    "maxLoadKG": "",
+    "maxFlyHours": "",
+    "averageSpeedKMpH": "",
+    "airplaneParams": {
+      "flyHours": ""
+    }
+  },
+
+  {
+    "modelName": "Airbus A320-B",
+    "maxLoadKG": "",
+    "maxFlyHours": "",
+    "averageSpeedKMpH": "",
+    "airplaneParams": {
+      "flyHours": ""
+    }
+  }
+]
